@@ -1,0 +1,36 @@
+{
+  "name": "Your Name",
+  "headline": "Senior Software Engineer | Python | Cloud | AI",
+  "location": "Remote",
+  "email": "you@example.com",
+  "linkedin_url": "https://www.linkedin.com/in/your-handle/",
+  "summary": "Engineer with 8+ years building backend systems, data platforms and AI products",
+  "tech_stack": [
+    "Python",
+    "LangChain",
+    "LangGraph",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "years_experience": 8,
+  "desired_roles": [
+    "Senior Backend Engineer",
+    "AI Engineer",
+    "Platform Engineer"
+  ],
+  "preferred_locations": ["Remote", "Europe"],
+  "experience": [
+    {
+      "company": "Acme Corp",
+      "title": "Senior Software Engineer",
+      "years": "2021-present",
+      "highlights": [
+        "Built an event-driven platform handling 10k req/s",
+        "Led migration to Kubernetes reducing infra cost by 30%"
+      ]
+    }
+  ]
+}

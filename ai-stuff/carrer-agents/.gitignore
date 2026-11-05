@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Secrets & local state
+.env
+*.sqlite
+*.sqlite3
+checkpoints.db
+.career_agents_state/
+
+# Playwright
+playwright-report/
+.auth/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,27 @@
+# --- Core orchestration ---
+langgraph>=0.2.50
+langchain>=0.3.7
+langchain-core>=0.3.15
+
+# --- Free LLM provider integrations ---
+langchain-groq>=0.2.1          # Groq free tier (Llama 3.x, fast)
+langchain-google-genai>=2.0.4 # Google Gemini free tier
+langchain-ollama>=0.2.0       # Local models (truly free, offline)
+langchain-openai>=0.2.5       # Used to talk to OpenRouter free models
+
+# --- MCP (Human-in-the-loop server) ---
+mcp>=1.2.0
+
+# --- Tools / integrations ---
+requests>=2.32.0
+python-dotenv>=1.0.1
+pydantic>=2.9.0
+pydantic-settings>=2.6.0
+
+# --- Optional; assistive browser automation (human-driven) ---
+playwright>=1.48.0
+
+# --- CLI / UX ---
+rich>=13.9.0
+typer>=0.13.0
+```
